@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Экран «О приложении»: блок Credits -->
+    <string name="about_title">О приложении</string>
+    <string name="about_author">Автор: wmn (waitmenear)</string>
+    <string name="about_channel">Telegram-канал: @wmncustoms</string>
+    <string name="about_channel_url" translatable="false">https://t.me/wmncustoms</string>
+    <string name="about_logo_description">Логотип автора wmn. Открыть Telegram-канал</string>
+    <string name="about_no_handler">Нет приложения, чтобы открыть ссылку</string>
+    <string name="about_license">Открытый проект, лицензия: MIT. Copyright (c) 2026 wmn (waitmenear)</string>
+    <string name="about_third_party_title">Сторонние материалы и благодарности</string>
+    <string name="about_third_party_text">ntsc-rs (MIT) — стадии аналогового сигнала, по которым написан режим VHS. AndroidX CameraX, Media3, Jetpack Compose и Kotlin — лицензия Apache-2.0. Полный список — THIRD_PARTY.md в репозитории проекта.</string>
+</resources>

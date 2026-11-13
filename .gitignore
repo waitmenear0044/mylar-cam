@@ -1,0 +1,37 @@
+# Gradle / Android
+.gradle/
+build/
+/app/build/
+.kotlin/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio: личные настройки IDE не публикуются
+.idea/
+!.idea/codeStyles/
+
+# Подпись: ключи и пароли только вне репозитория
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# Готовые APK (выкладываются в GitHub Releases, а не в репозиторий)
+output/
+*.apk
+*.aab
+
+# Референсы и материалы без лицензии на распространение
+reference/
+# Текстуры-наложения: свои файлы кладутся локально (см. app/src/main/assets/textures/README.md)
+app/src/main/assets/textures/**/*.jpg
+app/src/main/assets/textures/**/*.jpeg
+app/src/main/assets/textures/**/*.png
+app/src/main/assets/textures/**/*.webp
+
+# Система
+.DS_Store
+Thumbs.db
