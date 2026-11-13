@@ -4,6 +4,8 @@
 
 Автор: wmn — Telegram: https://t.me/wmncustoms
 
+Разработано вайбкодингом: код написан Claude Code (Anthropic) по задачам и идеям автора.
+
 Android-камера с ретро-эффектами в реальном времени: пиксели, плёнка, VHS с экраном кинескопа, «ядра» в духе
 интернет-эстетик, карта градиента, следы движения — и редактор фото и видео из галереи со слоями.
 Kotlin, Jetpack Compose, CameraX, OpenGL ES 3.
@@ -101,6 +103,8 @@ Effects are baked into photos and video. A gallery editor applies layered effect
 playback, offline video export, one-tap back to original with undo) and adds Newspaper halftone, Color select (loupe
 picker) and Dice — a random layer chain with a reproducible seed that can be saved as a named set or shared as a
 `MYLAR1:` code. Author: wmn — Telegram: https://t.me/wmncustoms
+
+Built by vibe coding: the code was written by Claude Code (Anthropic) from the author's ideas and tasks.
 
 Build: JDK 17+, Android SDK platform 37, `./gradlew assembleRelease` (the APK lands in `output/`). Install the APK from
 GitHub Releases.
